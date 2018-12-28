@@ -1,2 +1,2 @@
-#First Android App
-Simple HelloWorld app
+<head>First Android App</head>
+<body>Simple HelloWorld app</body>
