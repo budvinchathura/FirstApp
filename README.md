@@ -1,2 +1,2 @@
-<head>First Android App</head>
+# First Android App
 <body>Simple HelloWorld app</body>
